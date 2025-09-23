@@ -1,2 +1,2 @@
-# juego-pirata
-um dolor de huevos alv
+# juego-culero
+un dolor de huevos alv
