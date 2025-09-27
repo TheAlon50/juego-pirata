@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Suelos_5
+  m_Name: Arboles_23
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1898518797, guid: da2b376c91d93804c8a0876d88f014ed, type: 3}
-  m_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
+  m_Sprite: {fileID: 863786195, guid: c01c0d752a84ba642b54dc3595bfb4f4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0
